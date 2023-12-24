@@ -1,0 +1,3 @@
+Redefining educational spaces, this project incorporates AI to create cognitive learning environments that adapt to the unique needs and preferences of students, fostering personalized, interactive, and immersive educational experiences within architectural settings. all html tags are supported
+<br><br>
+<span>spantags</span>
